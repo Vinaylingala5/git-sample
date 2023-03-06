@@ -1,5 +1,17 @@
-Vinay Lingala
-Roop Pachigolla
-Manoj Dhanala
-Anil K D
-Hell
+git init
+git add <filename>
+git add .
+git status
+git commit -m "<message>"
+git branch -M <branchName> (to create branch)
+git checkout <branchName> (to switch branch)
+
+
+Git hub -----
+
+git remote add origin <https:repo>
+git remotr set-url origin <https:repo>
+git push -u origin main
+git push
+git pull origin <branchName>
+git pull
